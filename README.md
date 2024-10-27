@@ -26,6 +26,8 @@ Understanding what makes a song popular or how it might perform in different con
 
 ## Dataset
 
+The dataset consists of song features from bb_2000s_train.csv and bb_2000s_test.csv, which include columns related to song attributes and target classifications. These data files are used for training and testing models in the project.
+
 The dataset used in this project includes various audio features for songs, such as:
 
 - Genre
