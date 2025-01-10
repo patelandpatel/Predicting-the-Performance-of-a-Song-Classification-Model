@@ -14,9 +14,6 @@ This project explores a machine learning model to classify songs based on featur
 - [Contributing](#contributing)
 - [License](#license)
 
-
-
-
 ## Introduction
 
 Understanding what makes a song popular or how it might perform in different contexts is valuable for artists, producers, and music streaming platforms. This project builds a classification model that categorizes songs and predicts their potential success based on specific audio features. The goal is to provide insights into song performance by analyzing features like genre, tempo, loudness, and mood.
