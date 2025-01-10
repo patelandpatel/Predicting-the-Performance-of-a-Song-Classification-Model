@@ -4,8 +4,6 @@ This project explores a machine learning model to classify songs based on featur
 
 ## Table of Contents
 
-
-
 - [Introduction](#introduction)
 - [Features](#features)
 - [Dataset](#dataset)
