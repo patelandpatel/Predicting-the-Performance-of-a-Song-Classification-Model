@@ -2,7 +2,6 @@
 
 This project explores a machine learning model to classify songs based on features such as genre, tempo, mood, and other audio characteristics. By analyzing these features, the model predicts how well a song might perform in terms of popularity or listener engagement.
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
